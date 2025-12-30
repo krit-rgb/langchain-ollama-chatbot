@@ -19,3 +19,9 @@ Supports multi-turn conversations with message history persistence.
    pip install -r custom_gpt_reqs.txt
 2. Start Ollama
 3. Run the notebook
+
+## Tech Stack
+- Python
+- LangChain
+- Ollama
+- Local LLM (Mistral)
